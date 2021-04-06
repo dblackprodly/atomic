@@ -1,0 +1,21 @@
+"Guid","CurrencyIsoCode","SBQQ__Description__c","SBQQ__DiscountSchedule__c","SBQQ__Discount__c","SBQQ__EffectiveDate__c","SBQQ__ExpirationDate__c","SBQQ__FilterField__c","SBQQ__FilterValue__c","SBQQ__NonDiscountable__c","SBQQ__Operator__c","SBQQ__OriginalQuoteLine__c","SBQQ__Price__c"
+0eafc9a7-aa73-4278-9393-fe6288485c9f,USD,This is the first contract pricing for Embedded Control,d3f4099a-7a95-415d-a8f7-23f458c0f52e,"#N/A","#N/A","#N/A","#N/A","#N/A",true,"#N/A","#N/A","#N/A"
+11f675f5-396f-458d-b8ba-226821fd9990,USD,"#N/A","#N/A",5.0,"#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+1366e221-4ee8-4b5a-9258-d64dc1eb1a47,USD,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A",11321.0
+1b0433c1-e4e9-4306-aa62-af9096a0326a,USD,"#N/A","#N/A",5.0,"#N/A",2022-01-04,"#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+285a07c0-5a76-42a0-b888-4ef4dad0c67c,USD,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A",12.0
+29a60ee2-a0f2-4cd6-9c02-effa8ed3a568,USD,"#N/A","#N/A",10.0,"#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+3160067e-250b-4cdd-9ba6-a2549841e3cb,USD,"#N/A","#N/A",5.0,"#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+411ef6c4-38de-42b4-8429-0877b051476a,USD,"#N/A","#N/A","#N/A",2021-07-28,2022-07-27,"#N/A","#N/A",false,"#N/A","#N/A",1.0
+48bbf13e-97bf-49d7-b365-f96c31d3fb68,USD,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A",150.0
+4948b83a-db67-46e2-a9c4-8ed318b8306d,USD,"#N/A","#N/A",15.0,"#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+608d5cf6-132e-4d63-bb2f-85f92611e90b,USD,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A",12.0
+82547a99-addc-48b6-8c42-053f11fa85cf,USD,"#N/A","#N/A",5.0,"#N/A",2021-09-07,"#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+9824dc72-7a76-425e-a573-72cc94e32608,USD,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A",3333.33
+9b37a4ed-ce7d-4899-a459-994a036f29f6,USD,"#N/A","#N/A",2.5,2021-09-19,"#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+a83e8217-ea84-4447-8994-24b863efc176,USD,"#N/A","#N/A",10.0,2021-09-19,"#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+bf3b17b9-78ac-4aa5-a908-6c97f66131a3,USD,"#N/A","#N/A","#N/A",2020-10-20,"#N/A","#N/A","#N/A",false,"#N/A",2e796148-fd21-4e92-8f33-67d0aed7ef55,11000.0
+c756948d-10c1-4c6a-b019-24fbaf9c382e,USD,"#N/A","#N/A","#N/A",2021-07-20,"#N/A","#N/A","#N/A",false,"#N/A","#N/A",6060.03
+e0680426-f4e6-4279-8f6f-72a40e51d104,USD,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A",10000.0
+e28c6e33-1ff7-42d9-a985-3e58785061ea,USD,"#N/A","#N/A",25.0,"#N/A","#N/A","#N/A","#N/A",false,"#N/A","#N/A","#N/A"
+fd7039af-adc3-445c-98af-7d2a23c7ff40,USD,"#N/A","#N/A","#N/A",2021-07-20,"#N/A","#N/A","#N/A",false,"#N/A","#N/A",8181.173333333333
